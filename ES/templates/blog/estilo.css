@@ -1,0 +1,67 @@
+div.caixa{
+	background-color: #808080; 
+	margin-left: 40px;
+	margin-right: 60px;
+	padding-bottom: 30px;
+
+}
+
+h1{
+	background-color: #000000;
+	color: #ffffff;
+	border-radius: 3px;
+	margin-top: 2px;
+	border-width: 5px;
+	border-color: #ffffff;
+}
+input{
+	margin-left: 30px;
+	display: block;
+	border-color: #FF8C00;
+	border-width: 3px;
+	border-radius: 3px;
+	background-color: #A9A9A9;
+	width: 300px;
+	height: 30px;
+	font-size: 15pt;
+
+}
+label{
+	margin-left: 30px;
+	font-weight: bold;
+	font-size: 15pt;
+}
+select{
+	border-color: #FF8C00;
+	border-width: 3px;
+	border-radius: 3px;
+	background-color: #A9A9A9;
+	width: 300px;
+	height: 30px;
+}
+div.caixa .botao{
+	border-color: #FF8C00;
+	background-color: #000000;
+	color:#ffffff;
+	width: 120px;
+	height: 60px;
+	border-width: 3px;
+	border-radius: 5px;
+
+}
+nav ul li{
+	display: inline-block;
+	color: #ffffff;
+	width: 15%;
+	padding-bottom:10px;
+    padding-top: 10px;
+    padding-left: 5px; 
+}
+nav ul li:hover{
+	background-color: #A9A9A9;
+}
+nav ul{
+	background-color: #000000;
+	border-radius: 4px;
+	border-color: #FF8C00;
+}

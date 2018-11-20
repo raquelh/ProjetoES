@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
+def cadastroF_list(request):
+    return render(request, 'blog/cadastroF_list.html', {})
